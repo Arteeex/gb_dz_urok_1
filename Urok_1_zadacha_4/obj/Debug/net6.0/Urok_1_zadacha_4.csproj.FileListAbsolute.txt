@@ -1,0 +1,15 @@
+C:\Users\Reso\Desktop\gb_dz\Urok_1_zadacha_4\obj\Debug\net6.0\Urok_1_zadacha_4.csproj.AssemblyReference.cache
+C:\Users\Reso\Desktop\gb_dz\Urok_1_zadacha_4\obj\Debug\net6.0\Urok_1_zadacha_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reso\Desktop\gb_dz\Urok_1_zadacha_4\obj\Debug\net6.0\Urok_1_zadacha_4.AssemblyInfoInputs.cache
+C:\Users\Reso\Desktop\gb_dz\Urok_1_zadacha_4\obj\Debug\net6.0\Urok_1_zadacha_4.AssemblyInfo.cs
+C:\Users\Reso\Desktop\gb_dz\Urok_1_zadacha_4\obj\Debug\net6.0\Urok_1_zadacha_4.csproj.CoreCompileInputs.cache
+C:\Users\Reso\Desktop\gb_dz\Urok_1_zadacha_4\bin\Debug\net6.0\Urok_1_zadacha_4.exe
+C:\Users\Reso\Desktop\gb_dz\Urok_1_zadacha_4\bin\Debug\net6.0\Urok_1_zadacha_4.deps.json
+C:\Users\Reso\Desktop\gb_dz\Urok_1_zadacha_4\bin\Debug\net6.0\Urok_1_zadacha_4.runtimeconfig.json
+C:\Users\Reso\Desktop\gb_dz\Urok_1_zadacha_4\bin\Debug\net6.0\Urok_1_zadacha_4.dll
+C:\Users\Reso\Desktop\gb_dz\Urok_1_zadacha_4\bin\Debug\net6.0\Urok_1_zadacha_4.pdb
+C:\Users\Reso\Desktop\gb_dz\Urok_1_zadacha_4\obj\Debug\net6.0\Urok_1_zadacha_4.dll
+C:\Users\Reso\Desktop\gb_dz\Urok_1_zadacha_4\obj\Debug\net6.0\refint\Urok_1_zadacha_4.dll
+C:\Users\Reso\Desktop\gb_dz\Urok_1_zadacha_4\obj\Debug\net6.0\Urok_1_zadacha_4.pdb
+C:\Users\Reso\Desktop\gb_dz\Urok_1_zadacha_4\obj\Debug\net6.0\Urok_1_zadacha_4.genruntimeconfig.cache
+C:\Users\Reso\Desktop\gb_dz\Urok_1_zadacha_4\obj\Debug\net6.0\ref\Urok_1_zadacha_4.dll
